@@ -7,33 +7,33 @@ import "swiper/css/navigation";
 
 const testimonials = [
   {
-    name: "Natalie Robinson",
-    role: "Manager",
-    text: "Marketing about Agency everything digital this understand best service agency design best production and support of digital.",
+    name: "Michael Carter",
+    role: "Founder, Elevate Commerce",
+    text: "Their data-driven approach significantly improved our ROAS. Every recommendation was backed by real insights and results.",
     rating: 5,
   },
   {
-    name: "Natalie Robinson",
-    role: "Manager",
-    text: "Marketing about Agency everything digital this understand best service agency design best production and support of digital.",
+    name: "Sarah Mitchell",
+    role: "Marketing Manager, NovaTech Solutions",
+    text: "Creative, reliable, and easy to work with. Neurix Studio helped us reach the right audience and grow our brand.",
     rating: 5,
   },
   {
-    name: "Natalie Robinson",
-    role: "Manager",
-    text: "Marketing about Agency everything digital this understand best service agency design best production and support of digital.",
+    name: "Daniel Rodriguez",
+    role: "CEO, BrightWave Media",
+    text: "Neurix Studio transformed our campaigns with better creatives and smarter optimization. We've seen consistent growth and stronger returns.",
     rating: 5,
   },
   {
-    name: "Natalie Robinson",
-    role: "Manager",
-    text: "Marketing about Agency everything digital this understand best service agency design best production and support of digital.",
+    name: "Emma Thompson",
+    role: "Co-Founder, Urban Style Co.",
+    text: "Professional, responsive, and results-driven. Their team helped us improve lead quality and overall campaign performance.",
     rating: 5,
   },
   {
-    name: "Natalie Robinson",
-    role: "Manager",
-    text: "Marketing about Agency everything digital this understand best service agency design best production and support of digital.",
+    name: "James Anderson",
+    role: "Director, Apex Digital Ventures",
+    text: "A great marketing partner that focuses on measurable growth. Their strategies consistently deliver real business value.",
     rating: 5,
   },
 ];
@@ -62,13 +62,13 @@ const SectionV = () => {
               <div className="sec-title sec-title--two">
                 <div className="sec-title__funfact">
                   <h2 className="sec-title__funfact__count count-box">
-                    <span className="count-text">18000</span>
+                    <span className="count-text">100</span>
                     <span>+</span>
                   </h2>
                 </div>
 
                 <h2 className="sec-title__title bw-split-text">
-                  clients satisfaction Marketing Agency our words.
+                  Real feedback from businesses we've helped grow through strategic digital marketing.
                 </h2>
               </div>
             </div>

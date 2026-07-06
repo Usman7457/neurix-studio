@@ -50,7 +50,7 @@ const SectionIV = () => {
                     data-stop="35"
                     data-speed="1500"
                   ></span>
-                  <span>100+</span>
+                  <span>100%</span>
                 </h2>
                 <p className="funfact-three__item__text">24/7 Support Team </p>
               </div>

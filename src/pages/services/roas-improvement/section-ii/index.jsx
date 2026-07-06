@@ -11,28 +11,30 @@ const SectionII = () => {
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Strategic Ad Creative Development That Drives Two Hundred to Three
-              Hundred Percent Growth in Your First Two Months
+              Strategic ROAS Improvement That Maximizes Every Dollar You Invest
             </h2>
             <p
               className="marketing-area__text wow fadeInUp"
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Your brand has massive potential sitting untapped. But without the
-              right creative strategy, your ads get lost in the noise.
+              Every advertising budget has the potential to generate
+              significantly more revenue—but only when campaigns are managed
+              with the right strategy, data, and continuous optimization.
               <br />
               <br />
-              At Neurix Studio, we don't just create ads, we create movements.
-              We analyze your brand deeply, craft compelling creatives that
-              resonate with your audience, test everything rigorously, and
-              optimize relentlessly.
+              At Neurix Studio, we don't believe in simply spending more to get
+              better results. We focus on making every advertising dollar work
+              harder. By analyzing campaign performance, refining audience
+              targeting, optimizing bidding strategies, and improving the
+              customer journey, we help businesses increase profitability while
+              reducing wasted ad spend.
               <br />
               <br />
               The result?
               <br />
-              Real growth that shows up in your bottom line. We've seen brands
-              go from struggling to thriving, and we can do the same for you.
+              Higher returns, lower acquisition costs, and a scalable
+              advertising system that continues to improve over time.
             </p>
             <div className="row gutter-y-30">
               <div className="col-xl-8 col-lg-7">
@@ -82,75 +84,94 @@ const SectionII = () => {
             >
               How we Work?
             </h2>
-            <b>Brand Analysis and Market Intelligence</b>
+            <b>Campaign Performance Audit</b>
             <p>
-              We dive deep into your brand, your competitors, and your audience.
-              We study what's working, what's not, and where the real
-              opportunities hide. This foundation shapes everything that comes
-              next.
+              Before making any changes, we perform a comprehensive audit of
+              your existing advertising campaigns. We evaluate campaign
+              structure, audience targeting, bidding strategies, creative
+              performance, landing pages, conversion tracking, and overall
+              account health. We identify where your budget is being wasted and
+              uncover opportunities that can significantly improve your return
+              on ad spend. This data-driven audit becomes the roadmap for
+              optimization.
             </p>
-            <b>Concept Development</b>
+            <b>Audience & Customer Analysis</b>
             <p>
-              Our creative team brainstorms bold ideas rooted in your brand's
-              unique voice. We don't follow trends, we set them. Every concept
-              is built to resonate with your target audience and drive action.
+              The highest-performing campaigns begin with understanding the
+              right audience. We analyze customer behavior, purchasing patterns,
+              demographics, interests, and intent signals to identify your most
+              valuable customer segments. We also study competitors and market
+              trends to discover untapped opportunities. By reaching the people
+              most likely to convert, we reduce wasted impressions and increase
+              campaign efficiency.
             </p>
-            <b>Design Variations and Creative Execution</b>
+            <b>Campaign Structure & Budget Optimization</b>
             <p>
-              We don't believe in one size fits all. We create multiple design
-              directions, each with its own visual language and strategic angle.
-              Some creatives focus on emotion, others on logic. Some are bold
-              and vibrant, others are clean and minimalist. We produce
-              variations across different formats: static images for social
-              media, video ads for YouTube, carousel ads for Instagram, and
-              more. Every design variation is built with conversion in mind. We
-              ensure your brand guidelines are honored while pushing creative
-              boundaries. We test different headlines, different color schemes,
-              different calls to action. The goal is simple: give you options
-              that work, so you can scale what performs best.
+              A well-organized advertising account performs better than one
+              built without strategy. We restructure campaigns, organize ad
+              groups, optimize budgets, eliminate unnecessary spending, and
+              allocate more investment toward high-performing campaigns. Every
+              decision is made using performance data rather than assumptions,
+              allowing your advertising budget to generate maximum returns.
             </p>
-            <b>Testing and Performance Validation</b>
+            <b>Creative & Messaging Optimization</b>
             <p>
-              Every creative we produce goes through rigorous testing before it
-              goes live. We run A slash B tests to see which design resonates
-              more with your audience. We test different audience segments to
-              understand who responds to what message. We measure click through
-              rates, engagement metrics, and early conversion signals. We
-              identify winners and losers quickly, so we can double down on what
-              works. This data-driven approach ensures every rupee you spend on
-              ads delivers real results.
+              Even the best audience won't convert if the creative doesn't
+              capture attention. We continuously evaluate ad creatives,
+              headlines, descriptions, calls to action, and visual assets to
+              determine what resonates with your audience. Multiple creative
+              variations are tested to discover winning combinations that
+              improve engagement, click-through rates, and ultimately increase
+              revenue without increasing ad spend.
             </p>
-            <b>Rapid Iteration and Learning Loops</b>
+            <b>Landing Page & Conversion Optimization</b>
             <p>
-              We don't wait weeks to understand what's working. Our team builds
-              learning into every campaign. We document what succeeds and what
-              fails. Did a particular headline outperform others? Did video
-              convert better than static images? We capture these insights and
-              feed them directly into the next batch of creatives. This creates
-              a compounding effect where each campaign teaches us something
-              valuable about your audience. Your creative gets smarter with
-              every launch.
+              Driving traffic is only half the equation. If visitors don't
+              convert, advertising costs increase while ROAS declines. We review
+              your landing pages, user experience, page speed, messaging
+              consistency, trust signals, and conversion paths to remove
+              friction from the buying journey. Small improvements in conversion
+              rate often produce substantial gains in overall return on ad
+              spend.
             </p>
-            <b>Multi Channel Optimization</b>
+            <b>Continuous A/B Testing & Optimization</b>
             <p>
-              Your audience lives across platforms. Instagram requires a
-              different approach than Facebook, TikTok demands short form
-              content, LinkedIn needs professional polish. We adapt your message
-              and design for each platform while maintaining your core brand
-              voice. We understand the native formats, the audience behaviors,
-              the algorithmic preferences of each channel. This ensures maximum
-              visibility and engagement wherever your customers spend their
-              time.
+              Optimization is an ongoing process, not a one-time task. Every
+              campaign is continuously tested using different audiences, bidding
+              strategies, creatives, placements, keywords, and conversion
+              objectives. We monitor performance closely and quickly identify
+              winning variations while eliminating underperforming elements.
+              This continuous testing creates steady improvements that compound
+              over time.
             </p>
-            <b>Transparent Reporting and Strategic Insights</b>
+            <b>Advanced Performance Monitoring</b>
             <p>
-              Every month, you receive a comprehensive report. We show you what
-              we created, how it performed, and what we learned. We don't hide
-              behind vanity metrics. We focus on metrics that matter: cost per
-              acquisition, return on ad spend, and customer lifetime value. We
-              celebrate wins openly and identify opportunities for improvement
-              with equal clarity. This transparency builds trust and ensures
-              we're always aligned on what success looks like.
+              Our team monitors campaign performance daily using real-time
+              analytics and detailed reporting. We track metrics that directly
+              impact profitability, including Return on Ad Spend (ROAS), Cost
+              Per Acquisition (CPA), Customer Acquisition Cost (CAC), Conversion
+              Rate, Average Order Value (AOV), Click-Through Rate (CTR), and
+              Revenue Growth. These insights allow us to make informed
+              optimization decisions before performance declines.
+            </p>
+            <b>Scaling Winning Campaigns</b>
+            <p>
+              Once we identify campaigns delivering exceptional returns, we
+              implement a structured scaling strategy. Rather than dramatically
+              increasing budgets overnight, we scale gradually while maintaining
+              profitability. We expand successful audience segments, introduce
+              lookalike audiences, explore new placements, and increase budget
+              strategically to maximize revenue without sacrificing efficiency.
+            </p>
+            <b>Transparent Reporting & Strategic Recommendations</b>
+            <p>
+              We believe every client deserves complete visibility into campaign
+              performance. Each reporting cycle includes detailed insights into
+              advertising spend, revenue generated, ROAS improvements, campaign
+              performance, optimization actions taken, and recommendations for
+              future growth. We don't focus on vanity metrics—we focus on
+              measurable business outcomes that directly impact your
+              profitability.
             </p>
             <br />
             <h2
@@ -158,12 +179,14 @@ const SectionII = () => {
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Ready to Transform Your Ad Performance?
+              Ready to Maximize Your Return on Ad Spend?
             </h2>
             <p>
-              Schedule a consultation with our team today. Let's analyze your
-              current creative strategy and show you exactly where the untapped
-              potential lies.
+              If your campaigns are generating clicks but not enough revenue,
+              it's time for a smarter optimization strategy. Let Neurix Studio
+              analyze your advertising performance, eliminate wasted spend, and
+              build a scalable system that consistently delivers higher ROAS and
+              sustainable business growth.
             </p>
             <a href="tel:+ 44 7377 578671" className="bemox-btn mt-1">
               <span className="bemox-btn__icon">

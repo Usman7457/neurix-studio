@@ -6,17 +6,11 @@ const SectionIII = () => {
   const tabs = {
     itemOne: {
       title: "Our Mission",
-      text: "Our mission is to deliver high-quality digital marketing solutions that help businesses grow with modern strategies and performance-driven results.",
-      points: [
-        "Digital creativity and technology",
-        "Branding to UI/UX Design",
-        "Passionate designers & strategists",
-      ],
-      link: "service-d-affiliate.html",
+      text: "We help businesses achieve sustainable growth through data-driven digital marketing, creative innovation, & performance strategies. We are committed to building campaigns that not only increase visibility but also generate measurable results & improve acquisition. By combining strategic thinking with continuous optimization, we empower brands to grow confidently in an ever-evolving digital landscape while creating long-term value for every client we serve.",
     },
     itemTwo: {
       title: "Our Vision",
-      text: "Our vision is to become a globally recognized digital agency driving innovation, transformation, and measurable business success.",
+      text: "A digital marketing partner known for transforming ambitious brands into industry leaders through innovation & creativity. We strive to set new standards in digital marketing by embracing emerging technologies, adapting to changing consumer behaviors, and delivering solutions that consistently exceed expectations. Our goal is to build lasting partnerships where every campaign contributes to sustainable business growth and long-term success.",
       points: [
         "Global digital leadership",
         "Innovation-first approach",
@@ -26,7 +20,7 @@ const SectionIII = () => {
     },
     itemThree: {
       title: "Core Values",
-      text: "We believe in creativity, honesty, and performance. These values define every project we deliver.",
+      text: "Everything is guided by integrity, innovation, transparency, & a relentless focus on results. We believe successful marketing is built on trust, collaboration, & continuous improvement. Every decision we make is supported by data, every strategy is tailored to our clients' goals, and every campaign is optimized for maximum impact. By putting our clients' success first, embracing creativity, & maintaining complete transparency throughout process.",
       points: [
         "Integrity & transparency",
         "Creativity & innovation",
@@ -43,8 +37,7 @@ const SectionIII = () => {
       <div
         className="marketing-solution__bg"
         style={{
-          backgroundImage:
-            "url(assets/images/shapes/markting-soution.png)",
+          backgroundImage: "url(assets/images/shapes/markting-soution.png)",
         }}
       ></div>
 
@@ -142,30 +135,8 @@ const SectionIII = () => {
 
                 <div className="col-xl-4 col-lg-5">
                   <div className="marketing-area__content">
-                    <h3 className="marketing-area__title">
-                      {current.title}
-                    </h3>
 
-                    <p className="marketing-area__text">
-                      {current.text}
-                    </p>
-
-                    <ul className="marketing-area__list list-unstyled">
-                      {current.points.map((p, i) => (
-                        <li key={i}>
-                          <i className="icon-angle-check"></i>
-                          <span>{p}</span>
-                        </li>
-                      ))}
-                    </ul>
-
-                    <a href={current.link} className="bemox-btn">
-                      <span className="bemox-btn__icon">
-                        <i className="icon-arrow-left"></i>
-                        <i className="icon-arrow-left"></i>
-                      </span>
-                      <span className="bemox-btn__text">READ MORE</span>
-                    </a>
+                    <p className="marketing-area__text">{current.text}</p>
                   </div>
                 </div>
               </div>

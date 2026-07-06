@@ -47,9 +47,11 @@ const SectionI = () => {
                         data-stop="29"
                         data-speed="1500"
                       ></span>
-                      <span>29+</span>
+                      <span>10+</span>
                     </h3>
-                    <p className="about-one__thumb__funfact__text">EXPERIENCE</p>
+                    <p className="about-one__thumb__funfact__text">
+                      Years Of EXPERIENCE
+                    </p>
                   </div>
                 </div>
               </div>
@@ -57,22 +59,9 @@ const SectionI = () => {
             <div className="col-lg-6">
               <div className="about-one__content">
                 <div className="sec-title text-start">
-                  <div
-                    className="sec-title__tagline justify-content-start wow fadeInUp"
-                    data-wow-duration="1500ms"
-                    data-wow-delay="300ms"
-                  >
-                    <span className="sec-title__tagline__image">
-                      <img
-                        src="/assets/images/shapes/header-shape-1.png"
-                        alt="shape"
-                      />
-                    </span>
-                    Inside oUR Company
-                  </div>
                   <h2 className="sec-title__title letters-fade-in">
-                    About Digital Marketing <br />
-                    World Business Works.{" "}
+                    Data-Driven Digital Marketing That Delivers <br />
+                    Real Growth.{" "}
                     <span className="sec-title__title__shape">
                       <img
                         src="/assets/images/shapes/header-shape.png"
@@ -87,40 +76,15 @@ const SectionI = () => {
                     data-wow-duration="1500ms"
                     data-wow-delay="300ms"
                   >
-                    Digital marketing is a company that helps brands and
-                    businesses grow providing services related quality only on
-                    advertising, creative agencies
+                    At Neurix Studio, we help businesses scale through strategic
+                    digital marketing solutions designed to increase visibility,
+                    generate qualified leads, and maximize return on investment.
+                    Our team combines creativity, performance marketing, and
+                    data-driven insights to build campaigns that drive
+                    measurable business growth. From compelling ad creatives to
+                    conversion optimization and marketing automation, we create
+                    strategies that turn traffic into loyal customers.
                   </p>
-                  <ul
-                    className="about-one__list list-unstyled wow fadeInUp"
-                    data-wow-duration="1500ms"
-                    data-wow-delay="300ms"
-                  >
-                    <li>
-                      <span className="about-one__list__icon">
-                        <img src="/assets/images/icon/check.svg" alt="icon" />
-                      </span>
-                      <span className="about-one__list__text">
-                        Search Engine Optimization
-                      </span>
-                    </li>
-                    <li>
-                      <span className="about-one__list__icon">
-                        <img src="/assets/images/icon/check.svg" alt="icon" />
-                      </span>
-                      <span className="about-one__list__text">
-                        Analytics And Conversion
-                      </span>
-                    </li>
-                    <li>
-                      <span className="about-one__list__icon">
-                        <img src="/assets/images/icon/check.svg" alt="icon" />
-                      </span>
-                      <span className="about-one__list__text">
-                        Influencer of Marketing
-                      </span>
-                    </li>
-                  </ul>
                   <Link
                     to="/contact-us"
                     className="bemox-btn wow fadeInUp"
@@ -131,7 +95,7 @@ const SectionI = () => {
                       <i className="icon-arrow-left"></i>
                       <i className="icon-arrow-left"></i>
                     </span>
-                    <span className="bemox-btn__text">ABOUT MORE</span>
+                    <span className="bemox-btn__text">Get Free Quote</span>
                   </Link>
                 </div>
               </div>

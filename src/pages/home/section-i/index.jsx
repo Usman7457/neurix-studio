@@ -36,8 +36,7 @@ const SectionI = () => {
                 <div className="hero-two__content">
                   <h2 className="hero-two__title">
                     <span className="hero-two__title__text letters-fade-in">
-                      We Are Best{" "}
-                      <span className="title-border word">Marketing</span>
+                      Where Strategy Meets Creativity to Drive
                     </span>{" "}
                     <br />
                     <span className="hero-two__title__box">
@@ -47,7 +46,9 @@ const SectionI = () => {
                           alt="shape"
                         />
                       </span>
-                      <span className="letters-fade-in">Business Solution.</span>
+                      <span className="letters-fade-in">
+                        Business Growth
+                      </span>
                     </span>
                   </h2>
                   <span
@@ -60,9 +61,10 @@ const SectionI = () => {
                     data-wow-duration="1500ms"
                     data-wow-delay="600ms"
                   >
-                    Digital Marketing this work with partners or influencers who
-                    promote your products for a commission fast this business
-                    solution this company.
+                    Neurix Studio works with brands, creators, and partners to
+                    scale products through strategic advertising, influencer
+                    marketing, and conversion focused digital solutions for fast
+                    business growth.
                   </p>
                   <div
                     className="hero-two__btn-box wow fadeInUp"

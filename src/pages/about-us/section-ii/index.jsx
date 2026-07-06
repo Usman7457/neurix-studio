@@ -28,12 +28,15 @@ const SectionII = () => {
               <div className="col-lg-7">
                 <div className="work-process-area__title">
                   <h2 className="work-process-area__title__title">
-                    Digital Marketing Agency Of dedicated to helping
+                    A Proven Process to Build, Optimize, and Scale Your Digital
+                    Growth
                   </h2>
                   <p className="work-process-area__title__text">
-                    Digital marketing is a company that helps brands and
-                    businesses grow providing services related quality only on
-                    advertising, creative agencies
+                    At Neurix Studio, we follow a structured, data-driven
+                    approach to deliver measurable results. Every project begins
+                    with understanding your business goals and ends with
+                    continuous optimization to maximize your marketing
+                    performance and return on investment.
                   </p>
                 </div>
               </div>
@@ -48,21 +51,26 @@ const SectionII = () => {
               <div className="work-process-area__item">
                 <span className="work-process-area__count"></span>
                 <h3 className="work-process-area__title">
-                  Expertise & Services This Solution.
+                  Discovery & Strategy
                 </h3>
                 <p className="work-process-area__text">
-                  Digital marketing is a company that business grow providing
-                  services.
+                  We analyze your business, industry, competitors, and target
+                  audience to create a customized digital marketing strategy
+                  aligned with your objectives. Key Activities:
                 </p>
                 <ul className="work-process-area__list list-unstyled">
                   <li>
-                    <i className="icon-check-circle"></i>Content Marketing
+                    <i className="icon-check-circle"></i>Business & Competitor
+                    Analysis
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Email Marketing
+                    <i className="icon-check-circle"></i>Audience Research
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Social Media Marketing
+                    <i className="icon-check-circle"></i>Marketing Strategy
+                  </li>
+                  <li>
+                    <i className="icon-check-circle"></i>Goal & KPI Planning
                   </li>
                 </ul>
                 <div className="work-process-area__item__shape">
@@ -86,22 +94,25 @@ const SectionII = () => {
             >
               <div className="work-process-area__item">
                 <span className="work-process-area__count"></span>
-                <h3 className="work-process-area__title">
-                  Expertise & Services This Solution.
-                </h3>
+                <h3 className="work-process-area__title">Campaign Launch</h3>
                 <p className="work-process-area__text">
-                  Digital marketing is a company that business grow providing
-                  services.
+                  Our team develops high-converting ad creatives, compelling
+                  copy, and optimized landing pages before launching campaigns
+                  across digital channels. Key Activities:
                 </p>
                 <ul className="work-process-area__list list-unstyled">
                   <li>
-                    <i className="icon-check-circle"></i>Content Marketing
+                    <i className="icon-check-circle"></i>AD Creative Development
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Email Marketing
+                    <i className="icon-check-circle"></i>Campaign Setup
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Social Media Marketing
+                    <i className="icon-check-circle"></i>Landing Page
+                    Optimization
+                  </li>
+                  <li>
+                    <i className="icon-check-circle"></i>Audience Targeting
                   </li>
                 </ul>
                 <div className="work-process-area__item__shape">
@@ -123,24 +134,27 @@ const SectionII = () => {
               data-wow-duration="1500ms"
               data-wow-delay="700ms"
             >
-              <div className="work-process-area__item">
+              <div className="work-process-area__item pb-5">
                 <span className="work-process-area__count"></span>
-                <h3 className="work-process-area__title">
-                  Expertise & Services This Solution.
-                </h3>
+                <h3 className="work-process-area__title">Optimize & Scale</h3>
                 <p className="work-process-area__text">
-                  Digital marketing is a company that business grow providing
-                  services.
+                  We continuously monitor campaign performance, optimize
+                  conversion rates, automate marketing workflows, and improve
+                  ROAS to help your business growth. Key Activities:
                 </p>
                 <ul className="work-process-area__list list-unstyled">
                   <li>
-                    <i className="icon-check-circle"></i>Content Marketing
+                    <i className="icon-check-circle"></i>Conversion Rate
+                    Optimization
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Email Marketing
+                    <i className="icon-check-circle"></i>Marketing Automation
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Social Media Marketing
+                    <i className="icon-check-circle"></i>Performance Analytics
+                  </li>
+                  <li>
+                    <i className="icon-check-circle"></i>ROAS Improvement
                   </li>
                 </ul>
                 <div className="work-process-area__item__shape">
@@ -164,7 +178,7 @@ const SectionII = () => {
                 <i className="icon-arrow-left"></i>
                 <i className="icon-arrow-left"></i>
               </span>
-              <span className="bemox-btn__text">VIEW ALL process</span>
+              <span className="bemox-btn__text">Our Services</span>
             </Link>
           </div>
         </div>

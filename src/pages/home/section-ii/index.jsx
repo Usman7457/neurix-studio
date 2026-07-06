@@ -31,8 +31,9 @@ const SectionII = () => {
                     className="sec-title__title bw-split-text-two"
                     data-padding="93"
                   >
-                    Digital Marketing Agency dedicated to helping brands grow
-                    succeed in the digital This world.
+                    Performance Marketing Agency dedicated to helping businesses
+                    scale, convert, and grow in today's competitive digital
+                    landscape.
                   </h2>
                 </div>
                 <p
@@ -40,9 +41,11 @@ const SectionII = () => {
                   data-wow-duration="1500ms"
                   data-wow-delay="300ms"
                 >
-                  Digital marketing is a company that helps brands and
-                  businesses grow providing services related quality only on
-                  advertising, creative agencies
+                  Neurix Studio is a performance-driven digital marketing agency
+                  that helps businesses grow through strategic advertising,
+                  creative development, conversion optimization, marketing
+                  automation, and data-backed solutions that deliver measurable
+                  results.
                 </p>
               </div>
             </div>
@@ -62,7 +65,7 @@ const SectionII = () => {
                         data-stop="32"
                         data-speed="1500"
                       ></span>
-                      <span>+</span>
+                      <span>10+</span>
                     </h3>
                     <p className="about-two__funfat__text">YEARS OF</p>
                   </div>
