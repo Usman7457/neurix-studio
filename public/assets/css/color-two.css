@@ -1,0 +1,13 @@
+:root {
+  --bemox-base: #6C43E3;
+  --bemox-base-rgb: toRGB(#6C43E3);
+}
+
+.demo-one__card .bemox-btn .bemox-btn__text {
+  color: #ffffff;
+}
+.demo-one__card .bemox-btn .bemox-btn__icon {
+  color: #ffffff;
+  border-color: #ffffff;
+}
+/*# sourceMappingURL=color-two.css.map */

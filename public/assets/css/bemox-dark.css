@@ -1,0 +1,20 @@
+:root {
+  --bemox-text: #869390;
+  --bemox-gray: #ededed;
+  --bemox-white: #ffffff;
+  --bemox-text-rgb: toRGB(#869390);
+  --bemox-black: #050d22;
+  --bemox-black-rgb: toRGB(#010f0b);
+  --bemox-black2: #1b2748;
+  --bemox-black2-rgb: toRGB(#082820);
+  --bemox-black3: #394871;
+  --bemox-black3-rgb: toRGB(#394871);
+}
+
+.contact-one__wrapper,
+.sticky-header--cloned,
+body,
+body.boxed-wrapper .page-wrapper {
+  background-color: var(--bemox-black);
+}
+/*# sourceMappingURL=bemox-dark.css.map */

@@ -1,0 +1,47 @@
+body {
+  overflow-x: hidden;
+  direction: rtl;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+
+.owl-carousel .owl-nav,
+.owl-carousel .owl-dots,
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.contact__input-box .bootstrap-select .dropdown-menu,
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: right;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.about-three__shape-two,
+.about-three__shape-one,
+.owl-prev,
+.owl-next {
+  transform: rotateY(180deg);
+}
+
+.slider-three__title__icon i:last-child,
+.slider-three__title__icon i {
+  transform: rotateY(180deg) translate(-50%, -50%);
+}
+
+.funfact-three__list__item {
+  padding-left: 22px;
+  padding-right: 22px;
+}
+
+.newsletter__btn,
+.funfact-three__list li::after,
+.funfact-three__list li::before {
+  transform: rotateY(180deg);
+}
+/*# sourceMappingURL=bemox-custom-rtl.css.map */
