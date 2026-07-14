@@ -60,8 +60,7 @@ const SectionI = () => {
               <div className="about-one__content">
                 <div className="sec-title text-start">
                   <h2 className="sec-title__title letters-fade-in">
-                    Data-Driven Digital Marketing That Delivers <br />
-                    Real Growth.{" "}
+                    Performance Marketing That Creates Real Business Growth
                     <span className="sec-title__title__shape">
                       <img
                         src="/assets/images/shapes/header-shape.png"
@@ -72,18 +71,18 @@ const SectionI = () => {
                 </div>
                 <div className="about-one__content__inner">
                   <p
-                    className="about-one__text wow fadeInUp"
+                    className="about-one__text wow fadeInUp mt-5"
                     data-wow-duration="1500ms"
                     data-wow-delay="300ms"
                   >
-                    At Neurix Studio, we help businesses scale through strategic
-                    digital marketing solutions designed to increase visibility,
-                    generate qualified leads, and maximize return on investment.
-                    Our team combines creativity, performance marketing, and
-                    data-driven insights to build campaigns that drive
-                    measurable business growth. From compelling ad creatives to
-                    conversion optimization and marketing automation, we create
-                    strategies that turn traffic into loyal customers.
+                    Marketing should do more than generate clicks—it should
+                    generate customers. We help businesses attract the right
+                    audience, improve conversion rates and increase return on
+                    every marketing investment through tailored strategies,
+                    compelling creatives and continuous performance
+                    optimisation. Every decision is driven by commercial
+                    objectives, ensuring your marketing contributes directly to
+                    sustainable business growth.
                   </p>
                   <Link
                     to="/contact-us"

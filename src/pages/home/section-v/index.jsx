@@ -53,7 +53,7 @@ const SectionV = () => {
                       alt="shape"
                     />
                   </span>
-                  OUR TESTIMONIALS say
+                  What Our Clients Say
                 </div>
               </div>
             </div>
@@ -68,7 +68,7 @@ const SectionV = () => {
                 </div>
 
                 <h2 className="sec-title__title bw-split-text">
-                  Real feedback from businesses we've helped grow through strategic digital marketing.
+                  Why Businesses Continue to Choose Neurix Studio
                 </h2>
               </div>
             </div>

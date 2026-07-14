@@ -28,15 +28,17 @@ const SectionII = () => {
               <div className="col-lg-7">
                 <div className="work-process-area__title">
                   <h2 className="work-process-area__title__title">
-                    A Proven Process to Build, Optimize, and Scale Your Digital
-                    Growth
+                    A Strategic Process Designed to Build, Optimise & Scale
+                    Business Growth
                   </h2>
                   <p className="work-process-area__title__text">
-                    At Neurix Studio, we follow a structured, data-driven
-                    approach to deliver measurable results. Every project begins
-                    with understanding your business goals and ends with
-                    continuous optimization to maximize your marketing
-                    performance and return on investment.
+                    Every successful campaign starts with a clear strategy, not
+                    assumptions. Our framework combines research, creativity,
+                    performance marketing and continuous optimisation to help
+                    businesses attract better customers, improve marketing
+                    performance and achieve sustainable growth. Every stage is
+                    guided by data, measured against business objectives and
+                    refined to maximise long-term results.
                   </p>
                 </div>
               </div>
@@ -51,26 +53,28 @@ const SectionII = () => {
               <div className="work-process-area__item">
                 <span className="work-process-area__count"></span>
                 <h3 className="work-process-area__title">
-                  Discovery & Strategy
+                  Discover & Strategise
                 </h3>
                 <p className="work-process-area__text">
-                  We analyze your business, industry, competitors, and target
-                  audience to create a customized digital marketing strategy
-                  aligned with your objectives. Key Activities:
+                  We begin by understanding your business, market and customers
+                  before developing a tailored growth strategy aligned with your
+                  commercial objectives.
                 </p>
                 <ul className="work-process-area__list list-unstyled">
                   <li>
-                    <i className="icon-check-circle"></i>Business & Competitor
-                    Analysis
+                    <i className="icon-check-circle"></i>Business Discovery
+                  </li>
+                  <li>
+                    <i className="icon-check-circle"></i>Competitor Analysis
                   </li>
                   <li>
                     <i className="icon-check-circle"></i>Audience Research
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Marketing Strategy
+                    <i className="icon-check-circle"></i>Growth Strategy
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Goal & KPI Planning
+                    <i className="icon-check-circle"></i>KPI Planning
                   </li>
                 </ul>
                 <div className="work-process-area__item__shape">
@@ -94,18 +98,18 @@ const SectionII = () => {
             >
               <div className="work-process-area__item">
                 <span className="work-process-area__count"></span>
-                <h3 className="work-process-area__title">Campaign Launch</h3>
+                <h3 className="work-process-area__title">Create & Launch</h3>
                 <p className="work-process-area__text">
-                  Our team develops high-converting ad creatives, compelling
-                  copy, and optimized landing pages before launching campaigns
-                  across digital channels. Key Activities:
+                  With clear strategy in place, we develop compelling creatives,
+                  persuasive messaging & high-performing campaigns to engage
+                  your audience & generate results.
                 </p>
                 <ul className="work-process-area__list list-unstyled">
                   <li>
                     <i className="icon-check-circle"></i>AD Creative Development
                   </li>
                   <li>
-                    <i className="icon-check-circle"></i>Campaign Setup
+                    <i className="icon-check-circle"></i>Campaign Build
                   </li>
                   <li>
                     <i className="icon-check-circle"></i>Landing Page
@@ -113,6 +117,9 @@ const SectionII = () => {
                   </li>
                   <li>
                     <i className="icon-check-circle"></i>Audience Targeting
+                  </li>
+                  <li>
+                    <i className="icon-check-circle"></i>Campaign Launch
                   </li>
                 </ul>
                 <div className="work-process-area__item__shape">
@@ -136,16 +143,16 @@ const SectionII = () => {
             >
               <div className="work-process-area__item pb-5">
                 <span className="work-process-area__count"></span>
-                <h3 className="work-process-area__title">Optimize & Scale</h3>
+                <h3 className="work-process-area__title">Optimise & Scale</h3>
                 <p className="work-process-area__text">
-                  We continuously monitor campaign performance, optimize
-                  conversion rates, automate marketing workflows, and improve
-                  ROAS to help your business growth. Key Activities:
+                  Growth doesn't stop after launch. We continuously analyse
+                  performance, & refine campaigns to
+                  maximise efficiency, increase ROAS & support sustainable
+                  business growth.
                 </p>
                 <ul className="work-process-area__list list-unstyled">
                   <li>
-                    <i className="icon-check-circle"></i>Conversion Rate
-                    Optimization
+                    <i className="icon-check-circle"></i>Conversion Optimisation
                   </li>
                   <li>
                     <i className="icon-check-circle"></i>Marketing Automation
@@ -155,6 +162,9 @@ const SectionII = () => {
                   </li>
                   <li>
                     <i className="icon-check-circle"></i>ROAS Improvement
+                  </li>
+                  <li>
+                    <i className="icon-check-circle"></i>Continuous Testing
                   </li>
                 </ul>
                 <div className="work-process-area__item__shape">

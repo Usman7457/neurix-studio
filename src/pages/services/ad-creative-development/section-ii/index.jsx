@@ -11,28 +11,29 @@ const SectionII = () => {
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Strategic Ad Creative Development That Drives Two Hundred to Three
-              Hundred Percent Growth in Your First Two Months
+              Creative That Doesn't Just Get Attention. It Drives Revenue.
             </h2>
             <p
               className="marketing-area__text wow fadeInUp"
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Your brand has massive potential sitting untapped. But without the
-              right creative strategy, your ads get lost in the noise.
+              Strong advertising isn't built on attractive visuals alone.
               <br />
               <br />
-              At Neurix Studio, we don't just create ads, we create movements.
-              We analyze your brand deeply, craft compelling creatives that
-              resonate with your audience, test everything rigorously, and
-              optimize relentlessly.
+              It comes from understanding what motivates people to stop
+              scrolling, pay attention and take action.
               <br />
               <br />
-              The result?
+              At Neurix Studio, we combine audience research, creative strategy,
+              persuasive messaging and continuous testing to produce ad
+              creatives that improve click-through rates, increase conversions
+              and help businesses generate more revenue from every campaign.
               <br />
-              Real growth that shows up in your bottom line. We've seen brands
-              go from struggling to thriving, and we can do the same for you.
+              <br />
+              Whether you're launching a new product, scaling an existing
+              campaign or refreshing underperforming ads, we create advertising
+              assets designed to deliver measurable commercial results.
             </p>
             <div className="row gutter-y-30">
               <div className="col-xl-8 col-lg-7">
@@ -54,123 +55,111 @@ const SectionII = () => {
                   data-wow-delay="300ms"
                 >
                   <h3 className="marketing-area__title">
-                    Why Brands Choose Neurix?
+                    Difference Is in the Way We Think
                   </h3>
                   <p className="marketing-area__text">
-                    Your competitors are already optimizing their creatives.
-                    Every day without a structured creative strategy is a day
-                    your growth stalls. At Neurix, we bridge the gap between
-                    ideas and results. We combine strategic thinking with
-                    creative excellence, backed by rigorous testing and
-                    transparent reporting. Your success isn't an afterthought
-                    for us, it's the entire point.
+                    Successful marketing isn't built on isolated campaigns—it's
+                    built on a strategy that connects every part of the customer
+                    journey. At Neurix Studio, we combine performance marketing,
+                    creative thinking and continuous optimisation to help
+                    businesses achieve meaningful growth. Every recommendation
+                    is backed by data, every campaign is refined through
+                    testing, and every decision is focused on creating
+                    measurable commercial results.
                   </p>
-                  <a href="tel:+ 44 7377 578671" className="bemox-btn mt-1">
-                    <span className="bemox-btn__icon">
-                      <i className="icon-arrow-left"></i>
-                      <i className="icon-arrow-left"></i>
-                    </span>
-                    <span className="bemox-btn__text">Get Free Quote</span>
-                  </a>
                 </div>
               </div>
             </div>
             <h2
-              className="marketing-area__title wow fadeInUp mt-5"
+              className="marketing-area__title wow fadeInUp mt-5 mb-3"
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              How we Work?
+              Strategy First. Performance Always.
             </h2>
-            <b>Brand Analysis and Market Intelligence</b>
+
             <p>
-              We dive deep into your brand, your competitors, and your audience.
-              We study what's working, what's not, and where the real
-              opportunities hide. This foundation shapes everything that comes
-              next.
+              Great advertising doesn't begin with design software—it begins
+              with understanding your business. Our creative process combines
+              customer psychology, market intelligence, and continuous
+              optimisation to develop advertising that captures attention,
+              builds trust, and delivers measurable business outcomes.
             </p>
-            <b>Concept Development</b>
+
+            <b>01. Discovery & Market Insights</b>
             <p>
-              Our creative team brainstorms bold ideas rooted in your brand's
-              unique voice. We don't follow trends, we set them. Every concept
-              is built to resonate with your target audience and drive action.
+              Every successful campaign starts with understanding the bigger
+              picture. We analyse your business, competitors, target audience,
+              and existing marketing performance to uncover opportunities that
+              others often overlook. These insights allow us to build a creative
+              strategy aligned with your brand, your customers, and your
+              commercial objectives before any design work begins.
             </p>
-            <b>Design Variations and Creative Execution</b>
+
+            <b>02. Creative Strategy & Concept Development</b>
             <p>
-              We don't believe in one size fits all. We create multiple design
-              directions, each with its own visual language and strategic angle.
-              Some creatives focus on emotion, others on logic. Some are bold
-              and vibrant, others are clean and minimalist. We produce
-              variations across different formats: static images for social
-              media, video ads for YouTube, carousel ads for Instagram, and
-              more. Every design variation is built with conversion in mind. We
-              ensure your brand guidelines are honored while pushing creative
-              boundaries. We test different headlines, different color schemes,
-              different calls to action. The goal is simple: give you options
-              that work, so you can scale what performs best.
+              Strong creative is built on strategy, not inspiration alone. Our
+              team develops multiple creative concepts that reflect your brand
+              personality while addressing your audience's motivations and pain
+              points. Every headline, visual, and message is designed to
+              communicate value clearly and encourage meaningful customer action
+              throughout every stage of the buying journey.
             </p>
-            <b>Testing and Performance Validation</b>
+
+            <b>03. Design & Creative Production</b>
             <p>
-              Every creative we produce goes through rigorous testing before it
-              goes live. We run A slash B tests to see which design resonates
-              more with your audience. We test different audience segments to
-              understand who responds to what message. We measure click through
-              rates, engagement metrics, and early conversion signals. We
-              identify winners and losers quickly, so we can double down on what
-              works. This data-driven approach ensures every rupee you spend on
-              ads delivers real results.
+              Once the strategy is approved, we transform ideas into
+              high-performing advertising assets. We produce multiple creative
+              variations across different formats, platforms, and campaign
+              objectives, ensuring every design supports both your brand
+              identity and your conversion goals. From static ads and carousels
+              to motion graphics and video concepts, every creative is built to
+              perform.
             </p>
-            <b>Rapid Iteration and Learning Loops</b>
+
+            <b>04. Testing & Performance Optimisation</b>
             <p>
-              We don't wait weeks to understand what's working. Our team builds
-              learning into every campaign. We document what succeeds and what
-              fails. Did a particular headline outperform others? Did video
-              convert better than static images? We capture these insights and
-              feed them directly into the next batch of creatives. This creates
-              a compounding effect where each campaign teaches us something
-              valuable about your audience. Your creative gets smarter with
-              every launch.
+              Launching a campaign is only the beginning. We continuously test
+              creatives, messaging, audiences, and calls to action to understand
+              what resonates most with your customers. Every insight helps us
+              refine campaign performance, improve engagement, and maximise the
+              return on every advertising investment.
             </p>
-            <b>Multi Channel Optimization</b>
+
+            <b>05. Learn, Improve & Scale</b>
             <p>
-              Your audience lives across platforms. Instagram requires a
-              different approach than Facebook, TikTok demands short form
-              content, LinkedIn needs professional polish. We adapt your message
-              and design for each platform while maintaining your core brand
-              voice. We understand the native formats, the audience behaviors,
-              the algorithmic preferences of each channel. This ensures maximum
-              visibility and engagement wherever your customers spend their
-              time.
+              Every campaign gives us valuable insights about your audience. We
+              analyse performance data, identify winning creative patterns, and
+              apply those learnings to future campaigns. This continuous
+              optimisation process helps your advertising become more effective
+              over time, allowing your business to scale with greater confidence
+              and stronger returns.
             </p>
-            <b>Transparent Reporting and Strategic Insights</b>
-            <p>
-              Every month, you receive a comprehensive report. We show you what
-              we created, how it performed, and what we learned. We don't hide
-              behind vanity metrics. We focus on metrics that matter: cost per
-              acquisition, return on ad spend, and customer lifetime value. We
-              celebrate wins openly and identify opportunities for improvement
-              with equal clarity. This transparency builds trust and ensures
-              we're always aligned on what success looks like.
-            </p>
+
             <br />
+
             <h2
               className="marketing-area__title wow fadeInUp"
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Ready to Transform Your Ad Performance?
+              Ready to Grow Your Business?
             </h2>
+
             <p>
-              Schedule a consultation with our team today. Let's analyze your
-              current creative strategy and show you exactly where the untapped
-              potential lies.
+              Partner with our team to create data-driven advertising strategies
+              that increase engagement, generate quality leads, and deliver
+              measurable business growth. Let's build campaigns that turn
+              creative ideas into real results.
             </p>
-            <a href="tel:+ 44 7377 578671" className="bemox-btn mt-1">
+            <a href="tel:+ 44 7377 578671" className="bemox-btn mt-4">
               <span className="bemox-btn__icon">
                 <i className="icon-arrow-left"></i>
                 <i className="icon-arrow-left"></i>
               </span>
-              <span className="bemox-btn__text">Get Free Quote</span>
+              <span className="bemox-btn__text">
+                Ready to Create Ads That Actually Perform?
+              </span>
             </a>
           </div>
         </div>

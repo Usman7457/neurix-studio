@@ -1,10 +1,10 @@
-import React from 'react'
-import { Link } from 'react-router-dom'
+import React from "react";
+import { Link } from "react-router-dom";
 
 const SectionService = () => {
   return (
     <>
-    <div className="service-one section-space">
+      <div className="service-one section-space">
         <div className="container">
           <div className="sec-title sec-title--white text-center">
             <div
@@ -18,7 +18,7 @@ const SectionService = () => {
                   alt="shape"
                 />
               </span>
-              Our Services
+              Marketing That Moves Your Business Forward
               <span className="sec-title__tagline__image">
                 <img
                   src="/assets/images/shapes/header-shape-1-w.png"
@@ -27,7 +27,7 @@ const SectionService = () => {
               </span>
             </div>
             <h2 className="sec-title__title letters-fade-in">
-              We Offer a Wide Range of <br /> Services.{" "}
+              Performance Marketing Solutions That <br /> Deliver Results.{" "}
               <span className="sec-title__title__shape">
                 <img
                   src="/assets/images/shapes/header-shape-w.png"
@@ -52,12 +52,12 @@ const SectionService = () => {
                 <div className="service-card__content">
                   <h3 className="service-card__title">
                     <Link to="/services/ad-creative-development">
-                      AD Creative Development
+                      Ad Creative Development
                     </Link>
                   </h3>
                   <p className="service-card__text">
-                    Create high-performing ad creatives that capture attention
-                    and increase conversions.
+                    Create advertising that captures attention, builds trust and
+                    encourages customers to take action.
                   </p>
                   <div className="service-card__btn">
                     <Link
@@ -68,7 +68,7 @@ const SectionService = () => {
                         <i className="icon-arrow-left"></i>
                         <i className="icon-arrow-left"></i>
                       </span>
-                      <span className="bemox-btn__text">READ MORE</span>
+                      <span className="bemox-btn__text">Explore Service</span>
                     </Link>
                   </div>
                 </div>
@@ -89,12 +89,12 @@ const SectionService = () => {
                 <div className="service-card__content">
                   <h3 className="service-card__title">
                     <Link to="/services/conversion-rate-optimization">
-                      Conversion Rate Optimization
+                      Conversion Rate Optimisation
                     </Link>
                   </h3>
                   <p className="service-card__text">
-                    Turn more website visitors into customers through
-                    data-driven optimization.
+                    Turn website visitors into qualified leads and customers by
+                    improving every stage of the user journey.
                   </p>
                   <div className="service-card__btn">
                     <Link
@@ -105,7 +105,7 @@ const SectionService = () => {
                         <i className="icon-arrow-left"></i>
                         <i className="icon-arrow-left"></i>
                       </span>
-                      <span className="bemox-btn__text">READ MORE</span>
+                      <span className="bemox-btn__text">Explore Service</span>
                     </Link>
                   </div>
                 </div>
@@ -130,8 +130,8 @@ const SectionService = () => {
                     </Link>
                   </h3>
                   <p className="service-card__text">
-                    Develop customized marketing strategies that accelerate
-                    sustainable business growth.
+                    Build a clear growth roadmap that aligns your marketing
+                    investment with measurable business objectives.
                   </p>
                   <div className="service-card__btn">
                     <Link
@@ -142,7 +142,7 @@ const SectionService = () => {
                         <i className="icon-arrow-left"></i>
                         <i className="icon-arrow-left"></i>
                       </span>
-                      <span className="bemox-btn__text">READ MORE</span>
+                      <span className="bemox-btn__text">Explore Service</span>
                     </Link>
                   </div>
                 </div>
@@ -167,8 +167,8 @@ const SectionService = () => {
                     </Link>
                   </h3>
                   <p className="service-card__text">
-                    Automate marketing workflows to improve efficiency and
-                    customer engagement.
+                    Automate repetitive tasks, streamline customer journeys and
+                    create efficient systems that scale with your business.
                   </p>
                   <div className="service-card__btn">
                     <Link
@@ -179,7 +179,7 @@ const SectionService = () => {
                         <i className="icon-arrow-left"></i>
                         <i className="icon-arrow-left"></i>
                       </span>
-                      <span className="bemox-btn__text">READ MORE</span>
+                      <span className="bemox-btn__text">Explore Service</span>
                     </Link>
                   </div>
                 </div>
@@ -204,8 +204,8 @@ const SectionService = () => {
                     </Link>
                   </h3>
                   <p className="service-card__text">
-                    Optimize campaigns to maximize your advertising return on
-                    every marketing dollar.
+                    Improve campaign efficiency, reduce wasted spend and
+                    maximise the return from every advertising investment.
                   </p>
                   <div className="service-card__btn">
                     <Link to="/services/roas-improvement" className="bemox-btn">
@@ -213,7 +213,7 @@ const SectionService = () => {
                         <i className="icon-arrow-left"></i>
                         <i className="icon-arrow-left"></i>
                       </span>
-                      <span className="bemox-btn__text">READ MORE</span>
+                      <span className="bemox-btn__text">Explore Service</span>
                     </Link>
                   </div>
                 </div>
@@ -237,18 +237,15 @@ const SectionService = () => {
             data-wow-duration="1500ms"
             data-wow-delay="300ms"
           >
-            <a href="index.html" className="service-one__tag-logo">
-              <img src="/assets/images/loader.png" width="50" alt="logo" />
-            </a>
             <p className="service-one__bottom__text">
-              Digital Marketing is the modern approach to promoting{" "}
+              Digital Marketing is the modern approach to promoting - {" "}
               <Link to="/contact-us">CONTACT US</Link>
             </p>
           </div>
         </div>
       </div>
     </>
-  )
-}
+  );
+};
 
-export default SectionService
+export default SectionService;

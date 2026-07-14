@@ -6,11 +6,11 @@ const SectionIII = () => {
   const tabs = {
     itemOne: {
       title: "Our Mission",
-      text: "We help businesses achieve sustainable growth through data-driven digital marketing, creative innovation, & performance strategies. We are committed to building campaigns that not only increase visibility but also generate measurable results & improve acquisition. By combining strategic thinking with continuous optimization, we empower brands to grow confidently in an ever-evolving digital landscape while creating long-term value for every client we serve.",
+      text: "Our mission is to transform the way businesses approach marketing by replacing assumptions with strategy and activity with measurable outcomes. We partner with ambitious organisations to develop tailored growth strategies that combine performance marketing, automation and customer psychology into one connected system. Through continuous optimisation, transparent communication and a relentless focus on commercial impact, we help businesses build stronger brands, acquire better customers and create sustainable long-term success.",
     },
     itemTwo: {
       title: "Our Vision",
-      text: "A digital marketing partner known for transforming ambitious brands into industry leaders through innovation & creativity. We strive to set new standards in digital marketing by embracing emerging technologies, adapting to changing consumer behaviors, and delivering solutions that consistently exceed expectations. Our goal is to build lasting partnerships where every campaign contributes to sustainable business growth and long-term success.",
+      text: "Our vision is to redefine modern marketing by creating a future where businesses grow through informed decisions, meaningful customer relationships and continuous innovation. We strive to become a trusted strategic partner for organisations across the UK and beyond, delivering marketing systems that evolve with changing markets while consistently creating measurable commercial value.",
       points: [
         "Global digital leadership",
         "Innovation-first approach",
@@ -20,7 +20,7 @@ const SectionIII = () => {
     },
     itemThree: {
       title: "Core Values",
-      text: "Everything is guided by integrity, innovation, transparency, & a relentless focus on results. We believe successful marketing is built on trust, collaboration, & continuous improvement. Every decision we make is supported by data, every strategy is tailored to our clients' goals, and every campaign is optimized for maximum impact. By putting our clients' success first, embracing creativity, & maintaining complete transparency throughout process.",
+      text: "Our values shape every conversation, strategy and decision we make. We believe in putting our clients' success first, communicating openly and delivering work that creates genuine commercial impact. Innovation drives us to explore better ways of solving problems, while transparency ensures our clients always understand the reasoning behind every recommendation. Through collaboration, continuous improvement and an unwavering focus on results, we build lasting partnerships that create value far beyond individual marketing campaigns.",
       points: [
         "Integrity & transparency",
         "Creativity & innovation",
@@ -53,7 +53,7 @@ const SectionIII = () => {
                       alt="shape"
                     />
                   </span>
-                  Our Marketing Solution
+                  Marketing Solutions Built for Measurable Growth
                 </div>
               </div>
             </div>
@@ -61,7 +61,7 @@ const SectionIII = () => {
             <div className="col-xl-7">
               <div className="sec-title sec-title--two text-start">
                 <h2 className="sec-title__title bw-split-text">
-                  Smart Marketing Solutions for Modern Business service.
+                  Smarter Marketing. Stronger Business Results.
                 </h2>
               </div>
             </div>
@@ -82,7 +82,7 @@ const SectionIII = () => {
                     <i className="icon-handsetting"></i>
                   </span>
                   <span className="marketing-solution__list__item__text">
-                    Neurix Studio's - Mission Statement
+                    The Mission That Drives Us
                   </span>
                 </div>
               </li>
@@ -98,7 +98,7 @@ const SectionIII = () => {
                     <i className="icon-handsetting"></i>
                   </span>
                   <span className="marketing-solution__list__item__text">
-                    Neurix Studio's - Vision Statement
+                    Our Vision for Business Growth
                   </span>
                 </div>
               </li>
@@ -114,7 +114,7 @@ const SectionIII = () => {
                     <i className="icon-digitalgrth"></i>
                   </span>
                   <span className="marketing-solution__list__item__text">
-                    Neurix Studio's - Core Values
+                    The Principles That Guide Us
                   </span>
                 </div>
               </li>
@@ -135,7 +135,6 @@ const SectionIII = () => {
 
                 <div className="col-xl-4 col-lg-5">
                   <div className="marketing-area__content">
-
                     <p className="marketing-area__text">{current.text}</p>
                   </div>
                 </div>

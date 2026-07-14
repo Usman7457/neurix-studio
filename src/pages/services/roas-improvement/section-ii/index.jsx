@@ -11,30 +11,25 @@ const SectionII = () => {
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Strategic ROAS Improvement That Maximizes Every Dollar You Invest
+              Strategic ROAS Improvement That Maximises Every Advertising
+              Investment
             </h2>
             <p
               className="marketing-area__text wow fadeInUp"
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Every advertising budget has the potential to generate
-              significantly more revenue—but only when campaigns are managed
-              with the right strategy, data, and continuous optimization.
+              A bigger advertising budget doesn't always create better results.
+              Smarter decisions do.
               <br />
               <br />
-              At Neurix Studio, we don't believe in simply spending more to get
-              better results. We focus on making every advertising dollar work
-              harder. By analyzing campaign performance, refining audience
-              targeting, optimizing bidding strategies, and improving the
-              customer journey, we help businesses increase profitability while
-              reducing wasted ad spend.
-              <br />
-              <br />
-              The result?
-              <br />
-              Higher returns, lower acquisition costs, and a scalable
-              advertising system that continues to improve over time.
+              At Neurix Studio, we help businesses improve Return on Ad Spend by
+              identifying where revenue is being lost across the customer
+              journey. From audience strategy and campaign structure to creative
+              performance, landing pages and conversion optimisation, we refine
+              every element that influences profitability. The outcome is a
+              marketing system that generates stronger returns, reduces wasted
+              spend and becomes more efficient as it grows.
             </p>
             <div className="row gutter-y-30">
               <div className="col-xl-8 col-lg-7">
@@ -59,21 +54,15 @@ const SectionII = () => {
                     Why Brands Choose Neurix?
                   </h3>
                   <p className="marketing-area__text">
-                    Your competitors are already optimizing their creatives.
-                    Every day without a structured creative strategy is a day
-                    your growth stalls. At Neurix, we bridge the gap between
-                    ideas and results. We combine strategic thinking with
-                    creative excellence, backed by rigorous testing and
-                    transparent reporting. Your success isn't an afterthought
-                    for us, it's the entire point.
+                    Improving ROAS isn't about making one adjustment inside an
+                    advertising platform. It's about understanding how every
+                    part of your marketing works together. We combine strategic
+                    thinking, performance data and continuous optimisation to
+                    uncover opportunities that increase profitability over time.
+                    Every recommendation is made with one objective in mind:
+                    helping your business generate more revenue from the budget
+                    you're already investing.
                   </p>
-                  <a href="tel:+ 44 7377 578671" className="bemox-btn mt-1">
-                    <span className="bemox-btn__icon">
-                      <i className="icon-arrow-left"></i>
-                      <i className="icon-arrow-left"></i>
-                    </span>
-                    <span className="bemox-btn__text">Get Free Quote</span>
-                  </a>
                 </div>
               </div>
             </div>
@@ -82,118 +71,114 @@ const SectionII = () => {
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              How we Work?
+              How We Work
             </h2>
-            <b>Campaign Performance Audit</b>
+
+            <b>01. Performance & Growth Audit</b>
             <p>
-              Before making any changes, we perform a comprehensive audit of
-              your existing advertising campaigns. We evaluate campaign
-              structure, audience targeting, bidding strategies, creative
-              performance, landing pages, conversion tracking, and overall
-              account health. We identify where your budget is being wasted and
-              uncover opportunities that can significantly improve your return
-              on ad spend. This data-driven audit becomes the roadmap for
-              optimization.
+              Every optimisation project begins with understanding where your
+              current performance stands. We review campaign structure, audience
+              targeting, creative effectiveness, conversion tracking, and
+              customer behaviour to identify what's limiting your return on
+              investment. This gives us a clear roadmap for meaningful
+              improvement instead of relying on assumptions.
             </p>
-            <b>Audience & Customer Analysis</b>
+
+            <b>02. Audience & Customer Intelligence</b>
             <p>
-              The highest-performing campaigns begin with understanding the
-              right audience. We analyze customer behavior, purchasing patterns,
-              demographics, interests, and intent signals to identify your most
-              valuable customer segments. We also study competitors and market
-              trends to discover untapped opportunities. By reaching the people
-              most likely to convert, we reduce wasted impressions and increase
-              campaign efficiency.
+              Higher returns start with reaching the right people. We analyse
+              customer behaviour, purchase intent, and audience segments to
+              understand who is most likely to convert. These insights help us
+              refine targeting, reduce wasted impressions, and ensure your
+              advertising budget is focused on the audiences that create the
+              greatest commercial value.
             </p>
-            <b>Campaign Structure & Budget Optimization</b>
+
+            <b>03. Campaign Strategy & Budget Optimisation</b>
             <p>
-              A well-organized advertising account performs better than one
-              built without strategy. We restructure campaigns, organize ad
-              groups, optimize budgets, eliminate unnecessary spending, and
-              allocate more investment toward high-performing campaigns. Every
-              decision is made using performance data rather than assumptions,
-              allowing your advertising budget to generate maximum returns.
+              Successful campaigns are built on structure, not guesswork. We
+              reorganise campaign architecture, refine budget allocation, and
+              prioritise high-performing opportunities based on real performance
+              data. Every adjustment is made to improve efficiency, reduce
+              unnecessary spend, and maximise long-term profitability.
             </p>
-            <b>Creative & Messaging Optimization</b>
+
+            <b>04. Creative & Messaging Optimisation</b>
             <p>
-              Even the best audience won't convert if the creative doesn't
-              capture attention. We continuously evaluate ad creatives,
-              headlines, descriptions, calls to action, and visual assets to
-              determine what resonates with your audience. Multiple creative
-              variations are tested to discover winning combinations that
-              improve engagement, click-through rates, and ultimately increase
-              revenue without increasing ad spend.
+              Creative has a direct impact on campaign performance. We evaluate
+              headlines, visuals, offers, and calls to action to understand what
+              captures attention and encourages action. Through structured
+              testing and continuous refinement, we develop creative assets that
+              improve engagement, increase conversions, and support stronger
+              advertising returns.
             </p>
-            <b>Landing Page & Conversion Optimization</b>
+
+            <b>05. Conversion Journey Optimisation</b>
             <p>
-              Driving traffic is only half the equation. If visitors don't
-              convert, advertising costs increase while ROAS declines. We review
-              your landing pages, user experience, page speed, messaging
-              consistency, trust signals, and conversion paths to remove
-              friction from the buying journey. Small improvements in conversion
-              rate often produce substantial gains in overall return on ad
-              spend.
+              Great advertising doesn't stop at the click. We assess your
+              landing pages, user experience, and conversion journey to remove
+              friction that prevents visitors from becoming customers. By
+              improving the experience after the click, we help increase
+              conversion rates and maximise the value of every visitor your
+              campaigns generate.
             </p>
-            <b>Continuous A/B Testing & Optimization</b>
+
+            <b>06. Continuous Testing & Performance Improvement</b>
             <p>
-              Optimization is an ongoing process, not a one-time task. Every
-              campaign is continuously tested using different audiences, bidding
-              strategies, creatives, placements, keywords, and conversion
-              objectives. We monitor performance closely and quickly identify
-              winning variations while eliminating underperforming elements.
-              This continuous testing creates steady improvements that compound
-              over time.
+              Digital advertising is constantly evolving, and your campaigns
+              should evolve with it. We continuously test audiences, creatives,
+              bidding strategies, and campaign structures to identify what
+              delivers the strongest results. Every insight helps us refine
+              future campaigns and create consistent improvements in ROAS over
+              time.
             </p>
-            <b>Advanced Performance Monitoring</b>
+
+            <b>07. Data-Driven Performance Monitoring</b>
             <p>
-              Our team monitors campaign performance daily using real-time
-              analytics and detailed reporting. We track metrics that directly
-              impact profitability, including Return on Ad Spend (ROAS), Cost
-              Per Acquisition (CPA), Customer Acquisition Cost (CAC), Conversion
-              Rate, Average Order Value (AOV), Click-Through Rate (CTR), and
-              Revenue Growth. These insights allow us to make informed
-              optimization decisions before performance declines.
+              Better decisions come from better insights. We monitor campaign
+              performance using the metrics that directly influence
+              profitability, including ROAS, CPA, CAC, conversion rate, and
+              revenue growth. Regular analysis allows us to identify
+              opportunities early and optimise campaigns before performance
+              declines.
             </p>
-            <b>Scaling Winning Campaigns</b>
+
+            <b>08. Scale Profitable Growth</b>
             <p>
-              Once we identify campaigns delivering exceptional returns, we
-              implement a structured scaling strategy. Rather than dramatically
-              increasing budgets overnight, we scale gradually while maintaining
-              profitability. We expand successful audience segments, introduce
-              lookalike audiences, explore new placements, and increase budget
-              strategically to maximize revenue without sacrificing efficiency.
-            </p>
-            <b>Transparent Reporting & Strategic Recommendations</b>
-            <p>
-              We believe every client deserves complete visibility into campaign
-              performance. Each reporting cycle includes detailed insights into
-              advertising spend, revenue generated, ROAS improvements, campaign
-              performance, optimization actions taken, and recommendations for
-              future growth. We don't focus on vanity metrics—we focus on
-              measurable business outcomes that directly impact your
+              Once we've established a profitable foundation, we focus on
+              sustainable growth. Rather than increasing budgets aggressively,
+              we scale successful campaigns strategically, expanding audience
+              reach and investment while maintaining efficiency. This approach
+              helps businesses grow with confidence without sacrificing
               profitability.
             </p>
+
+            <b>09. Transparent Reporting & Strategic Recommendations</b>
+            <p>
+              Reporting should provide clarity, not complexity. We deliver
+              clear, actionable insights that explain what's working, what has
+              changed, and where the next opportunities exist. Every report is
+              focused on commercial outcomes, giving you the confidence to make
+              informed marketing decisions and plan for continued growth.
+            </p>
+
             <br />
             <h2
               className="marketing-area__title wow fadeInUp"
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Ready to Maximize Your Return on Ad Spend?
+              Ready to Increase Your Return on Every Advertising Pound?
             </h2>
             <p>
-              If your campaigns are generating clicks but not enough revenue,
-              it's time for a smarter optimization strategy. Let Neurix Studio
-              analyze your advertising performance, eliminate wasted spend, and
-              build a scalable system that consistently delivers higher ROAS and
-              sustainable business growth.
+              If your campaigns are generating traffic but not delivering the profitability you expect, it's time to look beyond surface-level metrics. We'll identify where your marketing investment is losing efficiency, develop a tailored optimisation strategy and help you build a scalable advertising system that delivers stronger returns over the long term.
             </p>
             <a href="tel:+ 44 7377 578671" className="bemox-btn mt-1">
               <span className="bemox-btn__icon">
                 <i className="icon-arrow-left"></i>
                 <i className="icon-arrow-left"></i>
               </span>
-              <span className="bemox-btn__text">Get Free Quote</span>
+              <span className="bemox-btn__text">Book Your Free ROAS Strategy Session</span>
             </a>
           </div>
         </div>

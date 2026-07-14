@@ -11,33 +11,29 @@ const SectionII = () => {
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              Your Traffic Isn't the Problem. Your Conversion Rate Is.
+              Your Website Doesn't Need More Visitors. It Needs More Customers.
             </h2>
             <p
               className="marketing-area__text wow fadeInUp"
               data-wow-duration="1500ms"
               data-wow-delay="300ms"
             >
-              You're driving visitors to your website.
+              Driving traffic is only half the equation.
               <br />
               <br />
-              Good.
+              If visitors leave your website without enquiring, booking or
+              making a purchase, your marketing investment isn't reaching its
+              full potential. The challenge isn't always attracting more people
+              it's giving the right people a better reason to take action.
               <br />
               <br />
-              But most of them are leaving without taking action. That's not a
-              traffic problem. That's a conversion problem.
-              <br />
-              <br />
-              Every percentage point increase in your conversion rate is money
-              in your pocket. A two percent conversion rate becoming four
-              percent means you double your revenue without spending a single
-              extra rupee on ads.
-              <br />
-              <br />
-              At Neurix, we specialize in one thing: making your existing
-              traffic convert better. We don't add more visitors. We make the
-              ones you have actually bought, sign up, or take the action that
-              matters.
+              At Neurix Studio, we help businesses unlock more value from the
+              traffic they already have. By improving the customer journey,
+              refining user experience and removing conversion barriers, we help
+              turn more visitors into qualified leads and loyal customers. Every
+              improvement is designed to increase conversions, reduce
+              acquisition costs and generate stronger returns from your existing
+              marketing investment.
             </p>
             <div className="row gutter-y-30 mb-5">
               <div className="col-xl-8 col-lg-7">
@@ -59,62 +55,67 @@ const SectionII = () => {
                   data-wow-delay="300ms"
                 >
                   <h3 className="marketing-area__title">
-                    Your Results, By the Numbers
+                    Growth Starts With Better Conversions
                   </h3>
                   <p className="marketing-area__text">
-                    A one percent improvement in conversion rate doesn't sound
-                    like much. But if you're getting five thousand visitors
-                    monthly, that's fifty extra conversions. If your average
-                    order value is one thousand rupees, that's fifty thousand
-                    rupees extra every month, with zero additional ad spend.
+                    A small improvement in your conversion rate can create a
+                    significant increase in revenue without increasing your
+                    advertising budget. Instead of spending more to attract
+                    additional visitors, we focus on helping your existing
+                    traffic deliver greater commercial value. Every
+                    recommendation is backed by customer behaviour, performance
+                    data and structured testing, ensuring your website continues
+                    to improve over time rather than relying on one-off changes.
                   </p>
-                  <a href="tel:+ 44 7377 578671" className="bemox-btn mt-1">
-                    <span className="bemox-btn__icon">
-                      <i className="icon-arrow-left"></i>
-                      <i className="icon-arrow-left"></i>
-                    </span>
-                    <span className="bemox-btn__text">Get Free Quote</span>
-                  </a>
                 </div>
               </div>
             </div>
+            <h2
+              className="marketing-area__title wow fadeInUp"
+              data-wow-duration="1500ms"
+              data-wow-delay="300ms"
+            >
+              How We Work?
+            </h2>
+            <b>Discover the Barriers</b>
             <p>
-              At Neurix, our clients see conversion rate lifts of thirty to one
-              hundred percent in the first ninety days. Some see more. It
-              depends on where your current rate is and how much optimization
-              potential exists. But the pattern is consistent: better conversion
-              rates mean more revenue from the same traffic.
+              Every optimisation project begins with understanding how people
+              interact with your website. We review user behaviour, analyse
+              customer journeys and identify the friction points preventing
+              visitors from becoming customers. This gives us a clear picture of
+              where improvements will have the greatest business impact.
             </p>
-            <b>The Conversion Audit</b>
+            <b>Build a Smarter Strategy</b>
             <p>
-              We start by understanding your current situation. Where are people
-              dropping off? Which pages convert well and which ones fail? We use
-              real data from heatmaps, session recordings, and analytics to see
-              exactly where your visitors are struggling. We don't guess. We
-              measure.
+              Once opportunities have been identified, we create a tailored
+              optimisation strategy based on your objectives, audience and
+              commercial priorities. Every recommendation is prioritised
+              according to potential impact, allowing us to focus on changes
+              that deliver meaningful improvements rather than unnecessary
+              redesigns.
             </p>
-            <b>Strategic Testing</b>
+            <b>Test With Purpose</b>
             <p>
-              Once we identify the problems, we test solutions. A/B testing
-              different headlines, different form lengths, different messaging.
-              We test button colors, CTA copy, page layouts. Each test teaches
-              us something. We run them simultaneously so you get answers fast,
-              not months later.
+              Successful optimisation is driven by evidence, not assumptions. We
+              continuously test headlines, layouts, calls to action, forms and
+              user experiences to understand what encourages customers to take
+              action. Every test provides valuable insights that guide future
+              improvements.
             </p>
-            <b>Optimization That Sticks</b>
+            <b>Implement What Works</b>
             <p>
-              Testing is only half the battle. The other half is implementing
-              what works and removing what doesn't. We build a prioritized
-              roadmap of changes based on potential impact. High-win
-              opportunities first. We optimize your forms, your messaging, your
-              page speed, your mobile experience. Everything that touches the
-              conversion journey.
+              Insights only create value when they're applied. We implement
+              proven improvements across your website, landing pages and
+              conversion funnel, ensuring every change contributes to a smoother
+              customer experience and stronger business performance.
             </p>
-            <b>Continuous Improvement</b>
+            <b>Optimise Continuously</b>
             <p>
-              Optimization never stops. Markets change, visitor behavior shifts,
-              competitors evolve. We monitor your performance continuously and
-              keep finding new opportunities to squeeze out better results.
+              Customer behaviour changes, markets evolve and opportunities never
+              stand still. That's why conversion optimisation is an ongoing
+              process. We continuously monitor performance, identify new
+              opportunities and refine your digital experience to help your
+              business achieve sustainable long-term growth.
             </p>
             <br />
             <h2

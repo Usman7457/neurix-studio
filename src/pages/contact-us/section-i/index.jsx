@@ -71,7 +71,7 @@ const SectionI = () => {
                   <div className="sec-title__tagline justify-content-start wow fadeInUp">
                     <span className="sec-title__tagline__image">
                       <img
-                        src="assets/images/shapes/work-process-1-1.png"
+                        src="/assets/images/shapes/work-process-1-1.png"
                         alt="shape"
                       />
                     </span>

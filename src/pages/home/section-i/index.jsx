@@ -36,7 +36,7 @@ const SectionI = () => {
                 <div className="hero-two__content">
                   <h2 className="hero-two__title">
                     <span className="hero-two__title__text letters-fade-in">
-                      Where Strategy Meets Creativity to Drive
+                      Turn Marketing Into a Predictable Revenue
                     </span>{" "}
                     <br />
                     <span className="hero-two__title__box">
@@ -46,9 +46,7 @@ const SectionI = () => {
                           alt="shape"
                         />
                       </span>
-                      <span className="letters-fade-in">
-                        Business Growth
-                      </span>
+                      <span className="letters-fade-in">Engine.</span>
                     </span>
                   </h2>
                   <span
@@ -61,29 +59,34 @@ const SectionI = () => {
                     data-wow-duration="1500ms"
                     data-wow-delay="600ms"
                   >
-                    Neurix Studio works with brands, creators, and partners to
-                    scale products through strategic advertising, influencer
-                    marketing, and conversion focused digital solutions for fast
-                    business growth.
+                    At Neurix Studio, we uncover what's holding your growth
+                    back, optimise every stage of the customer journey and build
+                    performance marketing systems that generate qualified leads,
+                    lower acquisition costs and increase revenue.
                   </p>
                   <div
                     className="hero-two__btn-box wow fadeInUp"
                     data-wow-duration="1500ms"
                     data-wow-delay="600ms"
                   >
-                    <Link to="/about-us" className="bemox-btn bemox-btn--white">
+                    <Link
+                      to="/contact-us"
+                      className="bemox-btn bemox-btn--white"
+                    >
                       <span className="bemox-btn__icon">
                         <i className="icon-arrow-left"></i>
                         <i className="icon-arrow-left"></i>
                       </span>
-                      <span className="bemox-btn__text">About Us</span>
+                      <span className="bemox-btn__text">
+                        Book Your Free Growth Audit
+                      </span>
                     </Link>
-                    <Link to="/services" className="bemox-btn bemox-btn--black">
+                    <Link to="/about-us" className="bemox-btn bemox-btn--black">
                       <span className="bemox-btn__icon">
                         <i className="icon-arrow-left"></i>
                         <i className="icon-arrow-left"></i>
                       </span>
-                      <span className="bemox-btn__text">Our Services</span>
+                      <span className="bemox-btn__text">See How We Work</span>
                     </Link>
                   </div>
 
@@ -98,15 +101,15 @@ const SectionI = () => {
                         alt="imaghome"
                       />
                     </div>
-                    <a
-                      href="blog-details.html"
+                    <Link
+                      to="/contact-us"
                       className="hero-two__text-round__link"
                     >
                       <img
                         src="/assets/images/shapes/logo-round.png"
                         alt="logo"
                       />
-                    </a>
+                    </Link>
                   </div>
                 </div>
               </div>

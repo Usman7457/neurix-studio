@@ -22,7 +22,7 @@ const FooterBottom = () => {
                 <Link to="/terms-and-conditions">Terms & Conditions</Link>
               </li>
               <li>
-                <Link to="#">Version 1.2.17</Link>
+                <Link to="#">Version 1.2.18</Link>
               </li>
             </ul>
           </div>

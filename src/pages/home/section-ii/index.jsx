@@ -21,7 +21,9 @@ const SectionII = () => {
                         alt="shape"
                       />
                     </span>
-                    WHO WE ARE
+                    We combine strategic thinking, performance marketing and
+                    intelligent technology to help ambitious businesses grow
+                    with confidence.
                   </div>
                 </div>
               </div>
@@ -31,9 +33,7 @@ const SectionII = () => {
                     className="sec-title__title bw-split-text-two"
                     data-padding="93"
                   >
-                    Performance Marketing Agency dedicated to helping businesses
-                    scale, convert, and grow in today's competitive digital
-                    landscape.
+                    Your Growth Partner for the Digital Age
                   </h2>
                 </div>
                 <p
@@ -41,11 +41,22 @@ const SectionII = () => {
                   data-wow-duration="1500ms"
                   data-wow-delay="300ms"
                 >
-                  Neurix Studio is a performance-driven digital marketing agency
-                  that helps businesses grow through strategic advertising,
-                  creative development, conversion optimization, marketing
-                  automation, and data-backed solutions that deliver measurable
-                  results.
+                  At Neurix Studio, we believe successful marketing starts with
+                  understanding the business behind it. That's why we take a
+                  consultancy-first approach, helping organisations identify
+                  growth opportunities before recommending solutions. Every
+                  strategy we develop is backed by research, customer insights
+                  and measurable business objectives rather than assumptions.
+                  <br /><br />
+                  From customer acquisition and conversion optimisation to
+                  AI-powered automation and creative advertising, we design
+                  marketing systems that work together to generate qualified
+                  leads, improve efficiency and increase long-term revenue. Our
+                  goal isn't simply to deliver campaigns—it's to build
+                  sustainable growth that continues long after launch. This
+                  reflects Neurix Studio's public positioning around branding,
+                  PPC, AI-powered marketing, lead generation and measurable
+                  business growth.
                 </p>
               </div>
             </div>
@@ -123,7 +134,7 @@ const SectionII = () => {
                   >
                     <Link to="/about-us" className="bemox-circle-btn">
                       <span className="bemox-circle-btn__text">
-                        More <br /> About Us
+                        Discover <br /> Our Story
                       </span>
                       <span className="icon-arrow-top"></span>
                       <i className="bemox-circle-btn__dot"></i>
