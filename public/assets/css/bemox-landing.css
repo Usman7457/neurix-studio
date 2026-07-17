@@ -22,7 +22,7 @@
   --bemox-text-gray2-rgb: 209, 199, 199;
   --bemox-white: #fff;
   --bemox-white-rgb: 255, 255, 255;
-  --bemox-base: #C3EE18;
+  --bemox-base: #bada17;
   --bemox-base-rgb: 195, 238, 24;
   --bemox-primary: #222222;
   --bemox-primary-rgb: 34, 34, 34;
@@ -252,7 +252,7 @@
   -webkit-appearance: none;
   border: none;
   outline: none !important;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   color: var(--bemox-black3, #040404);
   transition: 500ms;
   padding: 13.5px 30px 13.5px 20px;
@@ -313,7 +313,7 @@
 }
 .bemox-btn--two {
   color: var(--bemox-white, #fff);
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 .bemox-btn--two .bemox-btn__icon {
   border-color: var(--bemox-white, #fff);
@@ -389,7 +389,7 @@
 }
 .bemox-circle-btn__wrapper a:hover {
   transform: scale(1.1);
-  border-color: var(--bemox-base, #C3EE18);
+  border-color: var(--bemox-base, #bada17);
   color: var(--bemox-white, #fff);
 }
 .bemox-circle-btn__wrapper a:hover .bemox-circle-btn__dot {
@@ -402,7 +402,7 @@
   left: 32px;
   width: 0;
   height: 0;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   line-height: 20px;
   border-radius: 50%;
   transition: all 0.5s ease-out;
@@ -511,7 +511,7 @@
   color: var(--bemox-primary, #222222);
 }
 .sec-title--four .sec-title__tagline {
-  color: var(--bemox-base, #C3EE18);
+  color: var(--bemox-base, #bada17);
 }
 .sec-title--four .sec-title__tagline img {
   animation: slideLeft 3s linear infinite;
@@ -559,7 +559,7 @@
   line-height: 118%;
   letter-spacing: 0.15em;
   text-transform: uppercase;
-  color: var(--bemox-base, #C3EE18);
+  color: var(--bemox-base, #bada17);
   padding: 12px 29px 12px 45px;
   border-radius: 50px;
   overflow: hidden;
@@ -589,7 +589,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   transform: translateX(calc(-100% + 18px));
   transform-origin: left;
   transition: transform 0.3s ease-in-out;
@@ -648,7 +648,7 @@ body.locked {
 }
 
 a {
-  color: var(--bemox-base, #C3EE18);
+  color: var(--bemox-base, #bada17);
   transition: all 400ms ease;
 }
 
@@ -711,7 +711,7 @@ p {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: var(--bemox-base, #C3EE18);
+  background: var(--bemox-base, #bada17);
   border-radius: 100px;
 }
 
@@ -862,8 +862,8 @@ p {
 }
 .bemox-slick__carousel--basic-nav.slick-slider .slick-nav button:hover {
   color: var(--bemox-white, #fff);
-  background-color: var(--bemox-base, #C3EE18);
-  border-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
+  border-color: var(--bemox-base, #bada17);
 }
 .bemox-slick__carousel--basic-nav.slick-slider .slick-dots {
   display: flex;
@@ -898,19 +898,19 @@ p {
   bottom: 0;
   margin: auto;
   border-radius: 50%;
-  border: 1px solid var(--bemox-base, #C3EE18);
+  border: 1px solid var(--bemox-base, #bada17);
   transform: scale(0);
   -webkit-transition: all 300ms ease;
   transition: all 300ms ease;
 }
 .bemox-slick__carousel--basic-nav.slick-slider .slick-dots button:hover {
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 .bemox-slick__carousel--basic-nav.slick-slider .slick-dots button:hover::after {
   transform: scale(1);
 }
 .bemox-slick__carousel--basic-nav.slick-slider .slick-dots li.slick-active button {
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 .bemox-slick__carousel--basic-nav.slick-slider .slick-dots li.slick-active button::after {
   transform: scale(1);
@@ -964,8 +964,8 @@ p {
 }
 .bemox-owl__carousel--basic-nav.owl-carousel .owl-nav button:hover {
   color: var(--bemox-white, #fff);
-  background-color: var(--bemox-base, #C3EE18);
-  border-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
+  border-color: var(--bemox-base, #bada17);
 }
 .bemox-owl__carousel--basic-nav.owl-carousel .owl-dots {
   display: flex;
@@ -992,7 +992,7 @@ p {
   display: none;
 }
 .bemox-owl__carousel--basic-nav.owl-carousel .owl-dots .owl-dot:hover, .bemox-owl__carousel--basic-nav.owl-carousel .owl-dots .owl-dot.active {
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 .bemox-owl__carousel--basic-nav.owl-carousel .owl-dots.disabled {
   display: none;
@@ -1014,12 +1014,12 @@ p {
   color: var(--bemox-white, #fff);
 }
 .bootstrap-select .dropdown-item:hover {
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   color: var(--bemox-primary, #222222);
 }
 .bootstrap-select .dropdown-item.active,
 .bootstrap-select .dropdown-item:active {
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   color: var(--bemox-primary, #222222);
 }
 
@@ -1040,7 +1040,7 @@ p {
 }
 .ul-list-one li::before {
   content: "\e907";
-  color: var(--bemox-base, #C3EE18);
+  color: var(--bemox-base, #bada17);
   font-size: 26px;
   position: absolute;
   top: 50%;
@@ -1084,7 +1084,7 @@ p {
 .scroll-top-value {
   height: calc(100% - 6px);
   width: calc(100% - 6px);
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   color: var(--bemox-black3, #040404);
   border-radius: 50%;
   display: grid;
@@ -1136,7 +1136,7 @@ p {
   display: flex;
   width: 50px;
   height: 50px;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   align-items: center;
   justify-content: center;
   border-radius: 5px;
@@ -1149,7 +1149,7 @@ p {
 .post-pagination a.active, .post-pagination a:hover {
   background-color: var(--bemox-black3, #040404);
   color: var(--bemox-white, #fff);
-  border-color: var(--bemox-base, #C3EE18);
+  border-color: var(--bemox-base, #bada17);
 }
 .post-pagination .dots {
   color: var(--bemox-black, #000000);
@@ -1200,13 +1200,13 @@ p {
 .ui-datepicker-calendar .ui-widget-content .ui-state-default:hover,
 .ui-datepicker-calendar .ui-widget-header .ui-state-default:hover {
   color: var(--bemox-white, #fff);
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 .ui-datepicker-calendar .ui-state-highlight,
 .ui-datepicker-calendar .ui-widget-content .ui-state-highlight,
 .ui-datepicker-calendar .ui-widget-header .ui-state-highlight {
   color: var(--bemox-white, #fff);
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 
 .ui-datepicker .ui-datepicker-prev,
@@ -1217,7 +1217,7 @@ p {
 }
 .ui-datepicker .ui-datepicker-prev:hover,
 .ui-datepicker .ui-datepicker-next:hover {
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   color: var(--bemox-white, #fff);
   top: 2px;
 }
@@ -1305,7 +1305,7 @@ p {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   font-weight: 500;
   font-size: 20px;
   line-height: 23px;
@@ -1367,7 +1367,7 @@ p {
   }
 }
 .service-five__sec-title > .bw-split-text > div {
-  background-image: linear-gradient(to left, var(--bemox-black3, #040404) 50%, var(--bemox-base, #C3EE18) 50%);
+  background-image: linear-gradient(to left, var(--bemox-black3, #040404) 50%, var(--bemox-base, #bada17) 50%);
 }
 
 .sec-title--five > .bw-split-text-two > div {
@@ -1485,7 +1485,7 @@ p {
   position: absolute;
   right: -6px;
   z-index: 1;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 .demo-tagline__shape::before {
   top: -6px;
@@ -1499,7 +1499,7 @@ p {
   font-size: 16px;
   font-weight: 500;
   line-height: 1.625;
-  color: var(--bemox-base, #C3EE18);
+  color: var(--bemox-base, #bada17);
   text-transform: uppercase;
 }
 .demo-tagline__text::before {
@@ -1630,7 +1630,7 @@ p {
   transition: all 500ms ease;
 }
 .header__nav a:hover {
-  color: var(--bemox-base, #C3EE18);
+  color: var(--bemox-base, #bada17);
 }
 @media (max-width: 575px) {
   .header .bemox-btn {
@@ -2108,7 +2108,7 @@ p {
   margin: auto;
   transition: all 500ms ease;
   transform: translateY(100px);
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   clip-path: polygon(50% 100%, 0 0, 100% 0);
 }
 @media (max-width: 991px) {
@@ -2146,7 +2146,7 @@ p {
   left: 0px;
   opacity: 0;
   transition: all 500ms ease;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   animation: featuresBorder 2s linear infinite alternate;
 }
 .features-two__box:hover .features-two__border {
@@ -2358,7 +2358,7 @@ p {
 .bemox-area {
   padding: 120px 0px;
   position: relative;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 .bemox-area::after {
   content: "";
@@ -2469,7 +2469,7 @@ p {
 }
 .bemox-area__border--1, .bemox-area__border--2 {
   top: 40px;
-  border-top: 3px solid var(--bemox-base, #C3EE18);
+  border-top: 3px solid var(--bemox-base, #bada17);
 }
 .bemox-area__border--1 {
   left: 40px;
@@ -2477,7 +2477,7 @@ p {
 }
 .bemox-area__border--2 {
   right: 50px;
-  border-right: 3px solid var(--bemox-base, #C3EE18);
+  border-right: 3px solid var(--bemox-base, #bada17);
 }
 .bemox-area__border--3, .bemox-area__border--4 {
   bottom: 40px;
@@ -2663,7 +2663,7 @@ p {
   background-color: var(--bemox-primary, #222222);
 }
 .features-one .demo-tagline__text {
-  color: var(--bemox-base, #C3EE18);
+  color: var(--bemox-base, #bada17);
 }
 .features-one .demo-tagline__text::before {
   background-color: var(--bemox-border-color, #DDDDDD);
@@ -2689,7 +2689,7 @@ p {
   z-index: -1;
   margin: auto;
   opacity: 0;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
   transition: all cubic-bezier(0, 0.96, 0.58, 1.1) 0.7s;
 }
 .features-one__box:hover::before {
@@ -2827,7 +2827,7 @@ p {
   position: relative;
   padding-top: 120px;
   overflow: hidden;
-  background-color: var(--bemox-base, #C3EE18);
+  background-color: var(--bemox-base, #bada17);
 }
 @media (max-width: 767px) {
   .main-footer {
